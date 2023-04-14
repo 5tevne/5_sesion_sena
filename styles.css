@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://www.solofondos.com/wp-content/uploads/2016/03/1520020102_GymW3IM.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Tilt Prism', cursive;
+    color: deepskyblue;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{background-color: rgba(0, 0, 0, 0.379);}
+span{background-color: rgba(0, 0, 0, 0.321);}
+button{color:rgb(154, 154, 77);
+background-color: rgba(0, 0, 0, 0.415);
+
+}
